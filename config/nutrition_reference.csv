@@ -1,0 +1,59 @@
+product,aliases,display_es,weight_avg_g,kcal_100g,protein_g_100g,fat_g_100g,carbs_g_100g,fiber_g_100g,water_g_100g,source_weight,source_nutrition,notes
+orange_(fruit),Naranja;orange,Naranja,131.0,47,0.94,0.12,11.75,2.4,86.75,https://fdc.nal.usda.gov/food-details/169097/nutrients,https://fdc.nal.usda.gov/food-details/169097/nutrients,"fruit (2-5/8"" dia)"
+mandarin_orange,Mandarina;mandarin;tangerine,Mandarina,88.0,53,0.81,0.31,13.34,1.8,85.17,https://fdc.nal.usda.gov/food-details/169105/nutrients,https://fdc.nal.usda.gov/food-details/169105/nutrients,"medium (2-1/2"" dia)"
+clementine,Clementina,Clementina,74.0,47,0.85,0.15,12.02,1.7,86.58,https://fdc.nal.usda.gov/food-details/168195/nutrients,https://fdc.nal.usda.gov/food-details/168195/nutrients,fruit
+lemon,Limón amarillo,Limón amarillo,58.0,29,1.1,0.3,9.32,2.8,88.98,https://fdc.nal.usda.gov/food-details/167746/nutrients,https://fdc.nal.usda.gov/food-details/167746/nutrients,"fruit (2-1/8"" dia)"
+lime,Lima,Lima,67.0,30,0.7,0.2,10.54,2.8,88.26,https://fdc.nal.usda.gov/food-details/168155/nutrients,https://fdc.nal.usda.gov/food-details/168155/nutrients,"fruit (2"" dia)"
+strawberry,Fresa,Fresa,12.0,32,0.67,0.3,7.68,2,90.95,https://fdc.nal.usda.gov/food-details/167762/nutrients,https://fdc.nal.usda.gov/food-details/167762/nutrients,"medium (1-1/4"" dia)"
+raspberry,Frambuesa,Frambuesa,1.9,52,1.2,0.65,11.94,6.5,85.75,https://fdc.nal.usda.gov/food-details/167755/nutrients,https://fdc.nal.usda.gov/food-details/167755/nutrients,raspberries
+blueberry,Arándano,Arándano,1.36,57,0.74,0.33,14.49,2.4,84.21,https://fdc.nal.usda.gov/food-details/171711/nutrients,https://fdc.nal.usda.gov/food-details/171711/nutrients,berries
+grape,Uva,Uva,4.9,69,0.72,0.16,18.1,0.9,80.54,https://fdc.nal.usda.gov/food-details/174683/nutrients,https://fdc.nal.usda.gov/food-details/174683/nutrients,grapes
+apple,Manzana,Manzana,182.0,52,0.26,0.17,13.81,2.4,85.56,https://fdc.nal.usda.gov/food-details/171688/nutrients,https://fdc.nal.usda.gov/food-details/171688/nutrients,"medium (3"" dia)"
+pear,Pera,Pera,178.0,57,0.36,0.14,15.23,3.1,83.96,https://fdc.nal.usda.gov/food-details/169118/nutrients,https://fdc.nal.usda.gov/food-details/169118/nutrients,medium
+peach,Durazno,Durazno,150.0,39,0.91,0.25,9.54,1.5,88.87,https://fdc.nal.usda.gov/food-details/169928/nutrients,https://fdc.nal.usda.gov/food-details/169928/nutrients,"medium (2-2/3"" dia)"
+apricot,Albaricoque,Albaricoque,35.0,48,1.4,0.39,11.12,2,86.35,https://fdc.nal.usda.gov/food-details/171697/nutrients,https://fdc.nal.usda.gov/food-details/171697/nutrients,apricot
+cherry,Cereza,Cereza,8.2,63,1.06,0.2,16.01,2.1,82.25,https://fdc.nal.usda.gov/food-details/171719/nutrients,https://fdc.nal.usda.gov/food-details/171719/nutrients,cherry
+fig_(fruit),Higo;fig,Higo,50.0,74,0.75,0.3,19.18,2.9,79.11,https://fdc.nal.usda.gov/food-details/173021/nutrients,https://fdc.nal.usda.gov/food-details/173021/nutrients,"medium (2-1/4"" dia)"
+persimmon,Caqui,Caqui,168.0,70,0.58,0.19,18.59,3.6,80.32,https://fdc.nal.usda.gov/food-details/169941/nutrients,https://fdc.nal.usda.gov/food-details/169941/nutrients,"fruit (2-1/2"" dia)"
+banana,Plátano;banano,Plátano,118.0,89,1.09,0.33,22.84,2.6,74.91,https://fdc.nal.usda.gov/food-details/173944/nutrients,https://fdc.nal.usda.gov/food-details/173944/nutrients,"medium (7"" to 7-7/8"" long)"
+avocado,Palta,Palta,201.0,160,2,14.66,8.53,6.7,73.23,https://fdc.nal.usda.gov/food-details/171705/nutrients,https://fdc.nal.usda.gov/food-details/171705/nutrients,"avocado, NS as to Florida or California"
+pineapple,Piña,Piña,905.0,50,0.54,0.12,13.12,1.4,86,https://fdc.nal.usda.gov/food-details/169124/nutrients,https://fdc.nal.usda.gov/food-details/169124/nutrients,fruit
+papaya,Papaya,Papaya,157.0,43,0.47,0.26,10.82,1.7,88.06,https://fdc.nal.usda.gov/food-details/169926/nutrients,https://fdc.nal.usda.gov/food-details/169926/nutrients,"fruit, small"
+kiwi_fruit,Kiwi;kiwi,Kiwi,69.0,61,1.14,0.52,14.66,3,83.07,https://fdc.nal.usda.gov/food-details/168153/nutrients,https://fdc.nal.usda.gov/food-details/168153/nutrients,"fruit (2"" dia)"
+coconut,Coco,Coco,397.0,354,3.33,33.49,15.23,9,46.99,https://fdc.nal.usda.gov/food-details/170169/nutrients,https://fdc.nal.usda.gov/food-details/170169/nutrients,medium
+watermelon,Sandía,Sandía,4518.0,30,0.61,0.15,7.55,0.4,91.45,https://fdc.nal.usda.gov/food-details/167765/nutrients,https://fdc.nal.usda.gov/food-details/167765/nutrients,"melon (15"" long x 7-1/2"" dia)"
+melon,Melón;honeydew melon,Melón,1000.0,36,0.54,0.14,9.09,0.8,89.82,https://fdc.nal.usda.gov/food-details/169911/nutrients,https://fdc.nal.usda.gov/food-details/169911/nutrients,"melon (5-1/4"" dia)"
+cantaloup,Melón cantalupo;cantaloupe,Melón cantalupo,552.0,34,0.84,0.19,8.16,0.9,90.15,https://fdc.nal.usda.gov/food-details/169092/nutrients,https://fdc.nal.usda.gov/food-details/169092/nutrients,"melon, medium (about 5"" dia)"
+date_(fruit),Dátil;date,Dátil,24.0,277,1.81,0.15,74.97,6.7,21.32,https://fdc.nal.usda.gov/food-details/168191/nutrients,https://fdc.nal.usda.gov/food-details/168191/nutrients,"date, pitted"
+prune,Ciruela pasa,Ciruela pasa,9.5,240,2.18,0.38,63.88,7.1,30.92,https://fdc.nal.usda.gov/food-details/168162/nutrients,https://fdc.nal.usda.gov/food-details/168162/nutrients,"prune, pitted"
+tomato,Tomate,Tomate,123.0,18,0.88,0.2,3.89,1.2,94.52,https://fdc.nal.usda.gov/food-details/170457/nutrients,https://fdc.nal.usda.gov/food-details/170457/nutrients,"medium whole (2-3/5"" dia)"
+cucumber,Pepino,Pepino,301.0,15,0.65,0.11,3.63,0.5,95.23,https://fdc.nal.usda.gov/food-details/168409/nutrients,https://fdc.nal.usda.gov/food-details/168409/nutrients,"cucumber (8-1/4"")"
+eggplant,Berenjena,Berenjena,458.0,25,0.98,0.18,5.88,3,92.3,https://fdc.nal.usda.gov/food-details/169228/nutrients,https://fdc.nal.usda.gov/food-details/169228/nutrients,"eggplant, peeled (yield from 1-1/4 lb)"
+bell_pepper,Pimiento;bell pepper,Pimiento,119.0,26,0.99,0.3,6.03,2.1,92.21,https://fdc.nal.usda.gov/food-details/170108/nutrients,https://fdc.nal.usda.gov/food-details/170108/nutrients,"medium (approx 2-3/4"" long, 2-1/2 dia.)"
+chili_(vegetable),Ají;chili pepper,Ají,45.0,40,2,0.2,9.46,1.5,87.74,https://fdc.nal.usda.gov/food-details/170497/nutrients,https://fdc.nal.usda.gov/food-details/170497/nutrients,pepper
+zucchini,Zapallito italiano,Zapallito italiano,196.0,17,1.21,0.32,3.11,1,94.79,https://fdc.nal.usda.gov/food-details/169291/nutrients,https://fdc.nal.usda.gov/food-details/169291/nutrients,medium
+lettuce,Lechuga,Lechuga,360.0,15,1.36,0.15,2.87,1.3,94.98,https://fdc.nal.usda.gov/food-details/169249/nutrients,https://fdc.nal.usda.gov/food-details/169249/nutrients,head
+celery,Apio,Apio,40.0,14,0.69,0.17,2.97,1.6,95.43,https://fdc.nal.usda.gov/food-details/169988/nutrients,https://fdc.nal.usda.gov/food-details/169988/nutrients,"stalk, medium (7-1/2"" - 8"" long)"
+asparagus,Espárrago,Espárrago,16.0,20,2.2,0.12,3.88,2.1,93.22,https://fdc.nal.usda.gov/food-details/168389/nutrients,https://fdc.nal.usda.gov/food-details/168389/nutrients,"spear, medium (5-1/4"" to 7"" long)"
+artichoke,Alcachofa,Alcachofa,128.0,47,3.27,0.15,10.51,5.4,84.94,https://fdc.nal.usda.gov/food-details/169205/nutrients,https://fdc.nal.usda.gov/food-details/169205/nutrients,"artichoke, medium"
+broccoli,Brócoli,Brócoli,151.0,34,2.82,0.37,6.64,2.6,89.3,https://fdc.nal.usda.gov/food-details/170379/nutrients,https://fdc.nal.usda.gov/food-details/170379/nutrients,stalk
+cauliflower,Coliflor,Coliflor,588.0,25,1.92,0.28,4.97,2,92.07,https://fdc.nal.usda.gov/food-details/169986/nutrients,https://fdc.nal.usda.gov/food-details/169986/nutrients,"head medium (5-6"" dia.)"
+brussels_sprouts,Col de Bruselas;brussels sprouts,Col de Bruselas,19.0,43,3.38,0.3,8.95,3.8,86,https://fdc.nal.usda.gov/food-details/170383/nutrients,https://fdc.nal.usda.gov/food-details/170383/nutrients,sprout
+carrot,Zanahoria,Zanahoria,61.0,41,0.93,0.24,9.58,2.8,88.29,https://fdc.nal.usda.gov/food-details/170393/nutrients,https://fdc.nal.usda.gov/food-details/170393/nutrients,medium
+potato,Papa,Papa,213.0,77,2.05,0.09,17.49,2.1,79.25,https://fdc.nal.usda.gov/food-details/170026/nutrients,https://fdc.nal.usda.gov/food-details/170026/nutrients,"Potato medium (2-1/4"" to 3-1/4"" dia)"
+sweet_potato,Camote;sweet potato,Camote,130.0,86,1.57,0.05,20.12,3,77.28,https://fdc.nal.usda.gov/food-details/168482/nutrients,https://fdc.nal.usda.gov/food-details/168482/nutrients,"sweetpotato, 5"" long"
+radish,Rábano,Rábano,4.5,16,0.68,0.1,3.4,1.6,95.27,https://fdc.nal.usda.gov/food-details/169276/nutrients,https://fdc.nal.usda.gov/food-details/169276/nutrients,"medium (3/4"" to 1"" dia)"
+turnip,Nabo,Nabo,122.0,28,0.9,0.1,6.43,1.8,91.87,https://fdc.nal.usda.gov/food-details/170465/nutrients,https://fdc.nal.usda.gov/food-details/170465/nutrients,medium
+onion,Cebolla,Cebolla,110.0,40,1.1,0.1,9.34,1.7,89.11,https://fdc.nal.usda.gov/food-details/170000/nutrients,https://fdc.nal.usda.gov/food-details/170000/nutrients,"medium (2-1/2"" dia)"
+green_onion,Cebolla china;scallion,Cebolla china,15.0,32,1.83,0.19,7.34,2.6,89.83,https://fdc.nal.usda.gov/food-details/170005/nutrients,https://fdc.nal.usda.gov/food-details/170005/nutrients,"medium (4-1/8"" long)"
+garlic,Ajo (diente),Ajo (diente),3.0,149,6.36,0.5,33.06,2.1,58.58,https://fdc.nal.usda.gov/food-details/169230/nutrients,https://fdc.nal.usda.gov/food-details/169230/nutrients,clove
+green_bean,Vainita;green bean,Vainita,5.5,31,1.83,0.22,6.97,2.7,90.32,https://fdc.nal.usda.gov/food-details/169961/nutrients,https://fdc.nal.usda.gov/food-details/169961/nutrients,"beans (4"" long)"
+edible_corn,Choclo;corn,Choclo,102.0,86,3.27,1.35,18.7,2,76.05,https://fdc.nal.usda.gov/food-details/169998/nutrients,https://fdc.nal.usda.gov/food-details/169998/nutrients,"ear, medium (6-3/4"" to 7-1/2"" long) yields"
+blackberry,Mora,Mora,,,,,,,,,,
+pumpkin,Zapallo,Zapallo,,,,,,,,,,
+gourd,Calabaza,Calabaza,,,,,,,,,,
+pepper,Pepper,Pepper,,,,,,,,,,
+ginger,Kion,Kion,,,,,,,,,,
+pea_(food),green pea,Arveja,,,,,,,,,,
+chickpea,Garbanzo,Garbanzo,,,,,,,,,,
+legume,Legumbre,Legumbre,,,,,,,,,,

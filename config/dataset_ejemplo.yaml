@@ -1,0 +1,116 @@
+# Sustituye path por la ruta absoluta de tu dataset. Adapta names a los IDs reales.
+path: C:/FruitVisionDatos
+train: images/train
+val: images/val
+names:
+  0: Apple
+  1: Apricot
+  2: Avocado
+  3: Banana
+  4: Blackberry
+  5: Blueberry
+  6: Cantaloupe
+  7: Cherry
+  8: Coconut
+  9: Cranberry
+  10: Date
+  11: Dragon fruit
+  12: Durian
+  13: Fig
+  14: Grape
+  15: Grapefruit
+  16: Guava
+  17: Jackfruit
+  18: Kiwi
+  19: Lemon
+  20: Lime
+  21: Longan
+  22: Lychee
+  23: Mandarin
+  24: Mango
+  25: Mangosteen
+  26: Mulberry
+  27: Nectarine
+  28: Olive
+  29: Orange
+  30: Papaya
+  31: Passion fruit
+  32: Peach
+  33: Pear
+  34: Persimmon
+  35: Pineapple
+  36: Plantain
+  37: Plum
+  38: Pomegranate
+  39: Pomelo
+  40: Quince
+  41: Rambutan
+  42: Raspberry
+  43: Star fruit
+  44: Strawberry
+  45: Tangerine
+  46: Watermelon
+  47: Honeydew melon
+  48: Breadfruit
+  49: Soursop
+  50: Prickly pear
+  51: Gooseberry
+  52: Currant
+  53: Artichoke
+  54: Arugula
+  55: Asparagus
+  56: Beetroot
+  57: Bell pepper
+  58: Bitter melon
+  59: Bok choy
+  60: Broccoli
+  61: Brussels sprouts
+  62: Cabbage
+  63: Carrot
+  64: Cassava
+  65: Cauliflower
+  66: Celery
+  67: Chayote
+  68: Chili pepper
+  69: Collard greens
+  70: Corn
+  71: Cucumber
+  72: Eggplant
+  73: Fennel
+  74: Garlic
+  75: Ginger
+  76: Green bean
+  77: Green pea
+  78: Kale
+  79: Leek
+  80: Lettuce
+  81: Mushroom
+  82: Okra
+  83: Onion
+  84: Parsnip
+  85: Potato
+  86: Pumpkin
+  87: Radish
+  88: Spinach
+  89: Sweet potato
+  90: Swiss chard
+  91: Taro root
+  92: Tomato
+  93: Turnip
+  94: Yam
+  95: Zucchini
+  96: Butternut squash
+  97: Napa cabbage
+  98: Scallion
+  99: Shallot
+  100: Turmeric
+  101: Watercress
+  102: Jalapeno pepper
+  103: Serrano pepper
+  104: Pea pod
+  105: Red cabbage
+  106: Bean sprout
+  107: Bamboo shoot
+  108: Lotus root
+  109: Moringa leaf
+  110: Green chili

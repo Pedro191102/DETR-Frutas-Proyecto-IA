@@ -1,0 +1,4 @@
+Pesos originales de Deformable DETR (Detic_DeformDETR_R50_4x).
+Publicador: facebook. Distribución bajo licencia Apache-2.0, incluida en LICENSE.
+https://huggingface.co/facebook/deformable-detr-detic
+Los entrenamientos locales se guardan aparte en runs/detr.
